@@ -1,0 +1,2 @@
+link para donwload do git:https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao
+o git bash e um terminal extendido oara otmizar o uso do git
